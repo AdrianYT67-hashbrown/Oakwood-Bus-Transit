@@ -1,0 +1,1 @@
+{\n  "name": "oakwood-bus-transit",\n  "version": "1.0.0",\n  "description": "Node.js backend for Oakwood Bus Transit using Express.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "author": "AdrianYT67-hashbrown",\n  "license": "MIT",\n  "dependencies": {\n    "express": "^4.17.1"\n  }\n}
